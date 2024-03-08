@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Tanjir Hasan
-👑 I am Web Developer
-🖊️ Love to write code
-🎤 Like to share my knowledge
+# 👋 Hi, I’m Tanjir Hasan
+* 👑 I am Web Developer
+* 🖊️ Love to write code
+* 🎤 Like to share my knowledge
 - 📫 How to reach me : tanjirhc@gmail.com
 - 🚀 About Me
 - I am a Software Engineer. Basically working on ASP .Net Platform. I am working with JavaScript, Sass & Bootstrap also.
+
 - 👨‍💻 Skills & Experiance:
 
 ✅ C#

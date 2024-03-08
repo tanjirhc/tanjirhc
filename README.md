@@ -1,19 +1,18 @@
-# 👋 Hi, I’m Tanjir Hasan
-* 👑 I am Web Developer
-* 🖊️ Love to write code
-* 🎤 Like to share my knowledge
+### Hi there 👋, I’m Tanjir Hasan
+#### I am a Software Engineer
+![I am a Software Engineer](![tanjir-03](https://github.com/tanjirhc/tanjirtest/assets/130759310/526c4020-5e82-4a02-9cf3-5c4934e7888e))
+
+I am a Software Engineer. Basically working on ASP .Net Platform. I am working with JavaScript, Sass & Bootstrap also.
+
+Skills: ✅ C# ✅ Java ✅ JavaScript ✅ PHP ✅ HTML5 / CSS3 / SASS / Bootstrap ✅ Photoshop / Illustrator
+
+- 👯 I’m looking to collaborate on Github
 - 📫 How to reach me : tanjirhc@gmail.com
-- 🚀 About Me
-- I am a Software Engineer. Basically working on ASP .Net Platform. I am working with JavaScript, Sass & Bootstrap also.
 
-- 👨‍💻 Skills & Experiance:
 
-✅ C#
-✅ Java
-✅ JavaScript
-✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
-✅ Photoshop / Illustrator
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tanjirhc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/tanjirhc)  
+
+
 
 <!---
 tanjirhc/tanjirhc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

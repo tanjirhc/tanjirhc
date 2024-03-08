@@ -1,10 +1,14 @@
-### Hi there 👋, I’m Tanjir Hasan
-#### About Me
-
+# Hi there 👋, I’m Tanjir Hasan
+## About Me
 I am a Software Engineer. Basically working on ASP .Net Platform. I am working with JavaScript, Sass & Bootstrap also.
 
-#### Skills 
-✅ C# ✅ Java ✅ JavaScript ✅ PHP ✅ HTML5 / CSS3 / SASS / Bootstrap ✅ Photoshop / Illustrator
+## Skills 
+✅ C# 
+✅ Java 
+✅ JavaScript 
+✅ PHP 
+✅ HTML5 / CSS3 / SASS / Bootstrap 
+✅ Photoshop / Illustrator
 
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me : tanjirhc@gmail.com

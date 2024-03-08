@@ -10,8 +10,8 @@ I am a Software Engineer. Basically working on ASP .Net Platform. I am working w
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br/>
 ✅ Photoshop / Illustrator <br/>
 
-- 👯 I’m looking to collaborate on Github
-- 📫 How to reach me : tanjirhc@gmail.com
+👯 I’m looking to collaborate on Github <br/>
+📫 How to reach me : tanjirhc@gmail.com <br/>
 
 
 <!---

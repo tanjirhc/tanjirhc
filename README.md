@@ -3,12 +3,12 @@
 I am a Software Engineer. Basically working on ASP .Net Platform. I am working with JavaScript, Sass & Bootstrap also.
 
 ## Skills 
-✅ C# 
-✅ Java 
-✅ JavaScript 
-✅ PHP 
-✅ HTML5 / CSS3 / SASS / Bootstrap 
-✅ Photoshop / Illustrator
+✅ C# <br/>
+✅ Java  <br/>
+✅ JavaScript <br/>
+✅ PHP <br/>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br/>
+✅ Photoshop / Illustrator <br/>
 
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me : tanjirhc@gmail.com

@@ -12,7 +12,7 @@ I am a Software Engineer. Basically working on ASP .Net Platform. I am working w
 ✅ Photoshop / Illustrator <br/>
 
 👯 I’m looking to collaborate on Github <br/>
-📫 How to reach me : tanjirhc@gmail.com | tanjir@tanjircse.info <br/>
+📫 How to reach me : tanjirhc@gmail.com <br/>
 
 
 <!---

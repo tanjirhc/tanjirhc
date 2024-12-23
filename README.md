@@ -3,11 +3,11 @@
 I am a Software Engineer. Basically working on ASP .Net Platform. I am working with JavaScript, SASS & Bootstrap also.
 
 ## Skills 
-✅ C# <br/>
+✅ C# / ASP .Net Framework / ASP .Net Core <br/>
 ✅ Java  <br/>
 ✅ JavaScript / Node js / Express js / React js <br/>
 ✅ PHP <br/>
-✅ ASP .net Core <br/>
+✅ MySql/ MS SQL/ Mongo DB / Oracle 11g <br/>
 ✅ HTML5 / CSS3 / SASS / Bootstrap 5.0 <br/>
 ✅ Photoshop / Illustrator <br/>
 

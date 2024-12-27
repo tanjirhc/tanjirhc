@@ -5,9 +5,8 @@ I am a Software Engineer. Basically working on ASP .Net Platform. I am working w
 ## Skills 
 ✅ C# / ASP .Net Framework / ASP .Net Core <br/>
 ✅ Java  <br/>
-✅ JavaScript / Node js / Express js / React js <br/>
+✅ JavaScript <br/>
 ✅ PHP <br/>
-✅ MySql/ MS SQL/ Mongo DB / Oracle 11g <br/>
 ✅ HTML5 / CSS3 / SASS / Bootstrap 5.0 <br/>
 ✅ Photoshop / Illustrator <br/>
 
